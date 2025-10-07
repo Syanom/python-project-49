@@ -7,4 +7,4 @@
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=Syanom_python-project-49)
 
-<script src="https://asciinema.org/a/648tPR5JNW6NiLcUBgQtX2hV4.js" id="asciicast-648tPR5JNW6NiLcUBgQtX2hV4" async="true"></script>
+[![asciicast](https://asciinema.org/a/648tPR5JNW6NiLcUBgQtX2hV4.svg)](https://asciinema.org/a/648tPR5JNW6NiLcUBgQtX2hV4)
