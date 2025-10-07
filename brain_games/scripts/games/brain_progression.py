@@ -32,7 +32,7 @@ def generate_questions():
 
 def main():
     username = welcome_user()
-    print('Find the greatest common divisor of given numbers.')
+    print('What number is missing in the progression?')
     game(username, generate_questions())
 
 
