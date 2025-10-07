@@ -22,4 +22,4 @@ def game(username, questions):
         counter += 1
 
     if counter == len(questions):
-        print(f"Congratulations!, {username}!")
+        print(f"Congratulations, {username}!")

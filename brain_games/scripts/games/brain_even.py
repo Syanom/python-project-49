@@ -21,6 +21,7 @@ def generate_questions():
 
 def main():
     username = welcome_user()
+    print('Answer "yes" if the number is even, otherwise answer "no".')
     game(username, generate_questions())
 
 
