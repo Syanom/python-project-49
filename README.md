@@ -6,3 +6,5 @@
 [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=Syanom_python-project-49)](https://sonarcloud.io/summary/new_code?id=Syanom_python-project-49)
 
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=Syanom_python-project-49)
+
+<script src="https://asciinema.org/a/648tPR5JNW6NiLcUBgQtX2hV4.js" id="asciicast-648tPR5JNW6NiLcUBgQtX2hV4" async="true"></script>
