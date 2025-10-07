@@ -17,7 +17,8 @@ def game(username, questions):
         result, answer, users_opinion = round(question, correct_answer)
         if not result:
             print(f"'{users_opinion}' is wrong answer ;(. "
-                  f"Correct answer was '{answer}'.")
+                  f"Correct answer was '{answer}'."
+                  f"\nLet's try again, {username}!")
             break
         counter += 1
 
